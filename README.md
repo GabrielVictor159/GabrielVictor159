@@ -1,6 +1,52 @@
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
+<style>
+  
+.Badges_Container
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+}
+
+.Icon_Container
+  {
+    min-width: 80px; 
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:flex-start;
+    flex-wrap: nowrap;
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 0px black;
+    transform: translateY(0px);
+    transition: all 0.5s;
+    gap: 3px;
+    cursor: pointer;
+  }
+
+  .Icon_Container:hover
+  {
+    transform: translateY(-10px);
+  }
+  .Icon_Container > *
+  {
+    cursor: pointer;
+  }
+  .Icon_Container > label
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  .Icon_Container > img
+  {
+    filter: drop-shadow(2px 1px 0px rgba(0, 0, 0, 1));
+  }
+</style>
 <body>
 <h1 align="center"><b>Hi , I'm Gabriek Victor </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
