@@ -281,9 +281,9 @@
 <ul>
 
 <li>
-<spam href="https://www.linkedin.com/in/gabriel-victor-08a684110/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  GabrielVictor-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</spam>
+<a href="https://www.linkedin.com/in/gabriel-victor-08a684110/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  GabrielVictor159-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 </li>
 
 <br>
