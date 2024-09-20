@@ -27,7 +27,7 @@
 <br>
 
 - Final year of the bachelor's degree in information systems
-- .net developer at GwCloud
+- .net developer at Hypeone
 - I am focused on cloud computing solutions
 
 <br><br>
