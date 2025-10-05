@@ -21,14 +21,10 @@
 
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 
 <br>
-
-- Final year of the bachelor's degree in information systems
-- .net developer at Hypeone
-- I am focused on cloud computing solutions
+- Software Engineer at Valid Soluções SA
 
 <br><br>
 
