@@ -4,8 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/GabrielVictor159">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVictor159&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
+  <img
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api?username=GabrielVictor159&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true"
+    alt="Estatísticas do GitHub de Gabriel Victor"
+  />
+</a>
   <a href="https://github.com/GabrielVictor159">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVictor159&&repo=github-readme-stats&layout=compact&langs_count=10&theme=dracula&show_icons=true&hide=jupyter%20notebook,python,stars"/>
   </a>
